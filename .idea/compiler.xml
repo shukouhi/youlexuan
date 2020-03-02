@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="youlexuan-sellergoods-pojo" />
+        <module name="作业" />
         <module name="youlexuan-shop-web" />
         <module name="youlexuan-manager-web" />
-        <module name="youlexuan-sellergoods-common" />
+        <module name="youlexuan-sellergoods-pojo" />
         <module name="youlexuan-sellergoods-interface" />
         <module name="youlexuan-shop-interface" />
+        <module name="youlexuan-sellergoods-common" />
         <module name="youlexuan-sellergoods-dao" />
         <module name="youlexuan-shop-service" />
         <module name="youlexuan-sellergoods-service" />
@@ -28,6 +29,7 @@
       <module name="youlexuan-shop-interface" target="1.7" />
       <module name="youlexuan-shop-service" target="1.7" />
       <module name="youlexuan-shop-web" target="1.7" />
+      <module name="作业" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
